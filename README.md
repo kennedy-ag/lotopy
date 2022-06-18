@@ -1,2 +1,2 @@
-# LTPY
+# Lotopy
 Simulador de loteria (LotoPython).
