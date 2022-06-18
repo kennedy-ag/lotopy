@@ -1,7 +1,7 @@
 import funcoes
 
-funcoes.mostrar_precos(funcoes.get_price_list())
-funcoes.mostrar_premios()
+funcoes.show_price_list(funcoes.get_price_list())
+funcoes.show_prize()
 
 recurso = int(open("recurso.tmp", 'r').read())
 print("Seu saldo: {} RPs".format(recurso))
